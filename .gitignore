@@ -1,0 +1,19 @@
+# General#
+###################
+03_DOC*
+05_LIB*
+07_SW*
+08_SIM*
+History/*
+Project Logs/*
+Project Outputs/*
+# SCH #
+###################
+01_SCH/History/*
+01_SCH/__Previews/*
+# PCB #
+###################
+# 04_OUTPUT_FILES #
+###################
+# 06_RELEASE #
+###################
