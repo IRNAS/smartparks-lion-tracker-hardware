@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LION_TRACKER_PANEL.PcbDoc   27. 09. 2019  15:15:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Lion tracker_V0.TXT
+EIA File   : Lion tracker_V0.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             2155      PTH        0.00inch (0.00mm)
+T2      43mil (1.1mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T3      47mil (1.2mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T4      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T5      39mil (0.995mm)                                           Round             15        NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2189
+
+Total Processing Time (hh:mm:ss) : 00:00:01
