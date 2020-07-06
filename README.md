@@ -25,7 +25,7 @@ Potted view
   
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
 
-**Latest release: [v1.3](https://github.com/IRNAS/smartparks-lion-tracker-hardware)**
+**Latest release: [v1.5](https://github.com/IRNAS/smartparks-lion-tracker-hardware)**
 
 
 All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/smartparks-lion-tracker-hardware/issues) section of the repo.
