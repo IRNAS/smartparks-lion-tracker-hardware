@@ -1,6 +1,8 @@
 # Smart Parks Lion Tracker Hardware
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo-1.png" height="100" align="right">
 
+&NewLine;
+
 PCB view:
 <p align="center">
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_4.png" height="300">
