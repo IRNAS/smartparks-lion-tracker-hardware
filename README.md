@@ -13,7 +13,7 @@ PCB view:
 
 Potted view:
 <p align="center">
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_2.png" height="300">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_1.JPG" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_2.JPG" height="300">
 </p>
 
 - Mehanical specifications:
@@ -21,10 +21,10 @@ Potted view:
 	- Device weight: ~125g
 	- Device is put in polyurethane resin to protect it (https://electrolube.com/product/ur5528-chemically-resistant-polyurethane-resin/)
 	- Inside of the device is EMC shield around MCU and RF components to protect them from resin
-	- Resin thinknes arount the device is 2mm	
+	- Resin thinknes arount the device is 2mm
 
 - Future changes:
-	- 
+	- TBD
 
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
 
