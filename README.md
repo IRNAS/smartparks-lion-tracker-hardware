@@ -1,11 +1,6 @@
 # Smart Parks Lion Tracker Hardware
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100">
 
-PCB specifications:
-- 1.6mm PCB thinknes
-- 0.152mm (6mil) trace to trace and trace to polygon clearance
-- 1mm RF line thinknes
-
 PCB view:
 <p align="center">
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_4.png" height="300">
@@ -15,6 +10,11 @@ Potted view:
 <p align="center">
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_1.JPG" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_2.JPG" height="300">
 </p>
+
+- PCB specifications:
+	- 1.6mm PCB thinknes
+	- 0.152mm (6mil) trace to trace and trace to polygon clearance
+	- 1mm RF line thinknes
 
 - Mehanical specifications:
 	- Device dimensions 87x28x33mm
