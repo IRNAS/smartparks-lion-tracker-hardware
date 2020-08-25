@@ -1,5 +1,6 @@
-# smartparks-lion-tracker-hardware
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas-logotip-rgb-02.png" height="100">
+# Smart Parks Lion Tracker Hardware
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo.png" height="100">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo.png" height="100">
 
 PCB specifications:
 - 1.6mm PCB thinknes
