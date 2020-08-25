@@ -1,4 +1,4 @@
-# smartparks-lion-tracker-hardware
+# Smart Parks Lion Tracker
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas-logotip-rgb-02.png" height="100">
 
 PCB specifications:
