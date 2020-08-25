@@ -6,23 +6,26 @@ PCB specifications:
 - 0.152mm (6mil) trace to trace and trace to polygon clearance
 - 1mm RF line thinknes
 
-PCB view
+PCB view:
 <p align="center">
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_4.png" height="300">
 </p>
-Potted view
 
- - Future changes:
-	- 
+Potted view:
+<p align="center">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_2.png" height="300">
+</p>
 
-- Mehanical Specification:
-	- Device dimensions ??x??x??mm
-	- Device weight: ~??g
-	- Device is put in polyurethane resin to protect it (https://si.farnell.com/electrolube/ur5640rp250g/resin-pur-packet-250g-transparent/dp/2786027)
+- Mehanical specifications:
+	- Device dimensions 87x28x33mm
+	- Device weight: ~125g
+	- Device is put in polyurethane resin to protect it (https://electrolube.com/product/ur5528-chemically-resistant-polyurethane-resin/)
 	- Inside of the device is EMC shield around MCU and RF components to protect them from resin
 	- Resin thinknes arount the device is 2mm	
- 
-  
+
+- Future changes:
+	- 
+
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
 
 **Latest release: [v1.5](https://github.com/IRNAS/smartparks-lion-tracker-hardware)**
