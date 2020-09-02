@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BAT_MON_EN Pin=R14-1
+Added Component: Designator=D5(SOT 23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://eu.mouser.com/datasheet/2/916/BAS40_1PSXXSB4X_SER-1598244.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1081186"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_MON_EN Pin=D5-1
+Added Pin To Net: NetName=NFC_GPIO Pin=D5-2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=NetD5_3 Pin=R14-1
+Added Net: Name=NetD5_3
+Added Member To Class: ClassName=MAIN Member=Component D5 BAS40-04

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:06:43 On 26. 08. 2020
+
+Output: BOM
+Type  : BOM
+From  : Variant [Single_CH] of Project [Fence monitor.PrjPCB]
+   Generated File[Fence monitor_V1.1_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:06:50 On 26. 08. 2020

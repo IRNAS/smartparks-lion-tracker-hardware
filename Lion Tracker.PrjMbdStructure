@@ -1,0 +1,10 @@
+Record=DiagramHierarchy|SourceDocument=LION_TRACKER.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\..\Smartparks - Fence monitor\Electronics\Fence monitor.PrjPCB
+Record=SubProject|SourceDocument=LION_TRACKER.MbsDoc|ProjectPath=..\..\Smartparks - Fence monitor\Electronics\Fence monitor.PrjPCB
+Record=DiagramHierarchy|SourceDocument=LION_TRACKER.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=TAG\TAG.PrjPCB
+Record=SubProject|SourceDocument=LION_TRACKER.MbsDoc|ProjectPath=TAG\TAG.PrjPCB
+Record=DiagramHierarchy|SourceDocument=LION_TRACKER.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=TAG_EXTENSION\TAG_EXTENSION.PrjPCB
+Record=SubProject|SourceDocument=LION_TRACKER.MbsDoc|ProjectPath=TAG_EXTENSION\TAG_EXTENSION.PrjPCB
+Record=DiagramHierarchy|SourceDocument=LION_TRACKER.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=TAG_EXTENSION\TAG_EXTENSION.PrjPCB
+Record=SubProject|SourceDocument=LION_TRACKER.MbsDoc|ProjectPath=TAG_EXTENSION\TAG_EXTENSION.PrjPCB
+Record=DiagramHierarchy|SourceDocument=LION_TRACKER.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\..\Smartparks - WisentEdge tracker\WisentEdge.PrjPCB
+Record=SubProject|SourceDocument=LION_TRACKER.MbsDoc|ProjectPath=..\..\Smartparks - WisentEdge tracker\WisentEdge.PrjPCB

@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=VBAT Pin=T2-1
+Removed Pin From Net: NetName=NetR13_1 Pin=T2-2
+Removed Pin From Net: NetName=NetR13_1 Pin=T2-3
+Removed Pin From Net: NetName=GND Pin=T2-4
+Removed Pin From Net: NetName=NetR14_2 Pin=T2-5
+Removed Pin From Net: NetName=NetR12_2 Pin=T2-6
+Removed Pin From Net: NetName=VBAT Pin=T3-1
+Removed Pin From Net: NetName=NetR20_1 Pin=T3-2
+Removed Pin From Net: NetName=NetR20_1 Pin=T3-3
+Removed Pin From Net: NetName=GND Pin=T3-4
+Removed Pin From Net: NetName=NetR21_2 Pin=T3-5
+Removed Pin From Net: NetName=NetC16_1 Pin=T3-6
+Change component parameters: Designator = "T2"; Footprint = "VMT6"; UniqueID = "\UNDBIPYY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "Ciril Golob"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLINK1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2198041.pdf?_ga=2.191543850.1451481302.1563774341-1373726713.1554121096&_gac=1.95045230.1562763802.CjwKCAjwmZbpBRAGEiwADrmVXm8xT8OHDZvJe8qZIQyyGmIuiUD-TEITatw0hIdDkyBwIXXCH7oneRoCl7cQAvD_BwE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLINK1URL"; Value = "c:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS123.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2Description"; Value = "Datasheet www"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2URL"; Value = "http://www.onsemi.com/pub/Collateral/BSS123-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "11.07.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = "597778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opis / Description"; Value = "MOSFET BSS123       /N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2706721"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Velikost / Size"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T3"; Footprint = "VMT6"; UniqueID = "\POUPMBIJ\VXQVOJXM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "Ciril Golob"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLINK1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2198041.pdf?_ga=2.191543850.1451481302.1563774341-1373726713.1554121096&_gac=1.95045230.1562763802.CjwKCAjwmZbpBRAGEiwADrmVXm8xT8OHDZvJe8qZIQyyGmIuiUD-TEITatw0hIdDkyBwIXXCH7oneRoCl7cQAvD_BwE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLINK1URL"; Value = "c:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS123.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2Description"; Value = "Datasheet www"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2URL"; Value = "http://www.onsemi.com/pub/Collateral/BSS123-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "11.07.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = "597778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opis / Description"; Value = "MOSFET BSS123       /N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2706721"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Velikost / Size"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T4"; Footprint = "SOT23-3AL"; UniqueID = "\UYMNCRWJ\GENNHTQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "Ciril Golob"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1URL"; Value = "c:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS123.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2814387.pdf?_ga=2.180867175.1196948029.1566195061-1373726713.1554121096&_gac=1.87830250.1562763802.CjwKCAjwmZbpBRAGEiwADrmVXm8xT8OHDZvJe8qZIQyyGmIuiUD-TEITatw0hIdDkyBwIXXCH7oneRoCl7cQAvD_BwE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2Description"; Value = "Datasheet www"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2URL"; Value = "http://www.onsemi.com/pub/Collateral/BSS123-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "11.07.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = "597778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opis / Description"; Value = "MOSFET BSS123       /N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3127315"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Velikost / Size"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T5"; Footprint = "SOT23-3AL"; UniqueID = "\UYMNCRWJ\KVGIZMGH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "Ciril Golob"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1URL"; Value = "c:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS123.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2148574.pdf?_ga=2.241812546.1501170171.1569221802-1373726713.1554121096&_gac=1.51911131.1567774175.Cj0KCQjwh8jrBRDQARIsAH7BsXewc7Dwr4vpljjl78IYTw8YgbCKKX8PqbiwpEZSRALCWSJq0A6KVZoaAvm4EALw_wcB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2Description"; Value = "Datasheet www"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2URL"; Value = "http://www.onsemi.com/pub/Collateral/BSS123-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "11.07.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = "597778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opis / Description"; Value = "MOSFET BSS123       /N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2646371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Velikost / Size"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T6"; Footprint = "SOT23-3AL"; UniqueID = "\UYMNCRWJ\ZECBJRNH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Author"; Value = "Ciril Golob"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK1URL"; Value = "c:\ELRADSVN\Altium_Library\Libraries\Active\Datasheet\BSS123.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter ignored because duplicated): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2148574.pdf?_ga=2.241812546.1501170171.1569221802-1373726713.1554121096&_gac=1.51911131.1567774175.Cj0KCQjwh8jrBRDQARIsAH7BsXewc7Dwr4vpljjl78IYTw8YgbCKKX8PqbiwpEZSRALCWSJq0A6KVZoaAvm4EALw_wcB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2Description"; Value = "Datasheet www"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLINK2URL"; Value = "http://www.onsemi.com/pub/Collateral/BSS123-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date"; Value = "11.07.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = "597778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT"; Value = "0.44"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opis / Description"; Value = "MOSFET BSS123       /N-Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2646371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BSS123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Velikost / Size"; Value = "SOT23"; VariantName = "[No Variations]"
+Added Component: Designator=CON1(TC2030-IDC-NL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(TestPoint:1.2x1.2mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELRAD Id sifra / ELRAD Id No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT"; Value = "0.94"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Komp / Device"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opis / Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opomba / Remark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Toleranca / Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Velikost / Size"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2.5V Pin=CON1-1
+Added Pin To Net: NetName=SWDIO Pin=CON1-2
+Added Pin To Net: NetName=RESET Pin=CON1-3
+Added Pin To Net: NetName=SWCLK Pin=CON1-4
+Added Pin To Net: NetName=GND Pin=CON1-5
+Added Pin To Net: NetName=UART2_TX Pin=CON1-6
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=NetR14_2 Pin=T2-2
+Added Pin To Net: NetName=NetR12_2 Pin=T2-3
+Added Pin To Net: NetName=VBAT Pin=T2-4
+Added Pin To Net: NetName=NetR13_1 Pin=T2-5
+Added Pin To Net: NetName=NetR13_1 Pin=T2-6
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=NetR21_2 Pin=T3-2
+Added Pin To Net: NetName=NetC16_1 Pin=T3-3
+Added Pin To Net: NetName=VBAT Pin=T3-4
+Added Pin To Net: NetName=NetR20_1 Pin=T3-5
+Added Pin To Net: NetName=NetR20_1 Pin=T3-6
+Added Pin To Net: NetName=+2.5V Pin=TP1-0
+Added Member To Class: ClassName=MAIN Member=Component CON1 Tag connect
+Added Member To Class: ClassName=POWER Member=Component TP1 TestPoint

@@ -1,0 +1,8 @@
+Added Component: Designator=CON3(JST_2PIN_TH)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2057209.pdf?_ga=2.26100990.2144023421.1568612611-1741076818.1563951383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1516276"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_BAT Pin=CON3-1
+Added Pin To Net: NetName=VBAT Pin=CON3-2
+Added Member To Class: ClassName=POWER Member=Component CON3 JST-xH
