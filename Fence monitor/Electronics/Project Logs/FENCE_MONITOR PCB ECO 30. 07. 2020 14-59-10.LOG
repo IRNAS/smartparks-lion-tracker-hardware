@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=D7-1
+Removed Pin From Net: NetName=+2.5V Pin=D7-2
+Change Component Footprint: Designator=D7 Old Footprint=DFN-2 New Footprint=SOD-323
+Change Component Comment : Designator=D7 Old Comment=CDDFN2-T3.3B New Comment=uClamp3301D
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DFN-2"; UniqueID = "\JTBOMHBD" ("\JTBOMHBD")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MCod/Fs.eSBQs1U.304Nkc5rxRZ3Lk6_1A4.ZX_npjU1R.C8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Case Style"; Value = "SOD-123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Switching"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current If(AV)"; Value = "300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Surge Current Ifsm Max"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage VF Max"; Value = "1.25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIODES INC."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4148W-7-F."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-65"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65°C to +150°C<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The 1N4148W-7-F is a surface mount fast Switching Diode with moulded plastic case. Suitable for general purpose switching applications.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">Fast Switching Speed</li><li class="features-and-benefits-list-item">2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.136, 25=0.132, 100=0.0465, 500=0.042, 1000=0.024, 3000=0.021, 9000=0.017, 30000=0.0149 (GBP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "1N4148 Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Repetitive Reverse Voltage Vrrm Max"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time trr Max"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "157320"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1456422"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D7-A
+Added Pin To Net: NetName=+2.5V Pin=D7-K

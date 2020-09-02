@@ -1,16 +1,16 @@
 # Smart Parks Lion Tracker Hardware
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo.png" height="150" align="right">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/LION/logo/irnas-logo.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/LION/logo/smartparks-logo.png" height="150" align="right">
 
 <br>
 
 PCB view:
 <p align="center">
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_4.png" height="300">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION0/4_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION04_OUTPUT_FILES/Lion_4.png" height="300">
 </p>
 
 Potted view:
 <p align="center">
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_1.JPG" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/04_OUTPUT_FILES/Lion_potted_2.JPG" height="300">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_potted_1.JPG" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_potted_2.JPG" height="300">
 </p>
 
 - PCB specifications:
@@ -28,7 +28,7 @@ Potted view:
 - Future changes:
 	- TBD
 
-Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
+Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
 
 **Latest release: [v1.5](https://github.com/IRNAS/smartparks-lion-tracker-hardware)**
 
