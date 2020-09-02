@@ -1,5 +1,5 @@
 # Smart Parks Lion Tracker Hardware
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/tree/master/logo/irnas-logo.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/tree/master/logo/smartparks-logo.png" height="150" align="right">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo.png" height="150" align="right">
 
 <br>
 
