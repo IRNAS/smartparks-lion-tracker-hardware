@@ -7,9 +7,9 @@ TAG_EXTENSION*
 05_LIB*
 07_SW*
 08_SIM*
-Fence monitor/History/*
-Fence monitor/Project Logs/*
-PFence monitor/roject Outputs/*
+Fence_monitor/History/*
+Fence_monitor/Project Logs/*
+Fence_monitor/roject Outputs/*
 # SCH #
 ###################
 01_SCH/History/*
