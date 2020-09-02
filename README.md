@@ -5,7 +5,7 @@
 
 PCB view:
 <p align="center">
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION0/4_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION04_OUTPUT_FILES/Lion_4.png" height="300">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_2.png" height="300">				<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_4.png" height="300">
 </p>
 
 Potted view:
