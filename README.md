@@ -1,4 +1,6 @@
 # Smart Parks Lion Tracker Hardware
+
+# Lion Tracker Hardware
 <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo.png" height="150" align="right">
 
 <br>
@@ -27,7 +29,19 @@ Potted view:
 
 - Future changes:
 	- TBD
+	
+# Lence monitor add-on
 
+- PCB specifications:
+	- 1.6mm PCB thinknes
+	- 0.152mm (6mil) trace to trace and trace to polygon clearance
+	- Extra 3mm cut-out for protecting measuring circuit from high voltage discharge
+	- Used as add-on for lion tracker
+	
+<p align="center">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_potted_1.JPG" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_potted_2.JPG" height="300">
+</p>
+	
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
 
 **Latest release: [v1.5](https://github.com/IRNAS/smartparks-lion-tracker-hardware)**
