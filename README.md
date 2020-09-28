@@ -39,7 +39,7 @@ Potted view:
 	- Used as add-on for lion tracker
 	
 <p align="center">
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_potted_1.JPG" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/04_OUTPUT_FILES/Lion_potted_2.JPG" height="300">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/Fence_monitor/04_OUTPUT_FILES/PCB.png" height="300">			<img src="https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/Fence_monitor/04_OUTPUT_FILES/Komplet.png" height="300">
 </p>
 	
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-lion-tracker-hardware/blob/master/LION/06_RELEASE/V1.3/Lion_Tracker_V1.3_SCHEMATICS/Lion_Tracker_V1.3_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
